@@ -1,1 +1,1 @@
-# kube-news
+# kube-news iniciativa devops pro. desafio 2
